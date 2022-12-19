@@ -1,0 +1,546 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.top {
+    background-color: #000000;
+    color: #969696;
+}
+header button {
+    padding: 20px 0px 20px 0px;
+    background-color: #000000;
+    color: #969696;
+    border: none;
+    font-size: 15px;
+}
+.phone-div {
+    display: flex;
+    margin-top: 20px;
+    justify-content: space-between;
+    }
+    .phone-div span {
+        margin-left: 30px;
+    }
+.top {
+    display: flex;
+    justify-content: space-evenly;
+}
+.after-top {
+    display: flex;
+    background-color: #0F0F0F;
+    color: #969696;
+    padding: 30px 0px 30px 0px;
+    justify-content: space-around;
+}
+.log b {
+    text-align: center;
+    font-size: 30px;
+    color: #ffff;
+
+}
+.log {
+    margin-top: 20px;
+}
+.buttons {
+    display: flex;
+    float: right;
+}
+.buttons button {
+background-color: #0F0F0F;
+padding: 30px 15px 30px 15px;
+}
+.buttons i {
+    margin-top: 30px;
+    padding-left: 30px;
+}
+.thefirst {
+   padding-bottom: 130px;
+   background-image:linear-gradient(to top, rgba(255, 255, 255, 0.3), rgba(245, 245, 245, 0.3)),
+   url(/photos/Rectangle\ 3\ \(1\).png);
+}
+.thefirst {
+    padding-top: 100px;
+    color: #ffff;
+    text-align: center;
+}
+.logo {
+ margin-left: 31%;
+    width: 30%;
+    padding: 93px 68px 94px 67px;
+    border: 2px solid #ffff;
+    font-size: 30px;
+    
+ }
+ .after_logo {
+    width: 50%;
+    font-size: 18px;
+    text-align: center;
+    margin-left: 25%;
+    margin-top: 50px;
+    
+ }
+ .season {
+    display: flex;
+ }
+ .watch {
+    background-color: #000000;
+    color: #ffff;
+    padding-bottom: 40px;
+    width: 75%;
+ }
+ .watch b {
+    font-size: 36px;    
+ }
+ .popa {
+    font-size: 36px;
+    border-bottom: 1px solid;
+    text-align: center;
+    padding-bottom: 40px;
+ }
+ .popa_text {
+    text-align: center;
+ }
+ .img {
+    background-color: #191B1C;
+    padding: 40px 10px 40px 10px;
+
+ }
+ .items {
+    display: flex;
+    justify-content: space-around;
+ }
+ .img img {
+    width: 10%;
+    height: 10%;
+ }
+ .cost img {
+    width: 50%;
+    margin-left: 20%;
+ }
+ .hr {
+    width: 20%;
+    text-align: center;
+ }
+ .cost {
+    display: flex;
+    flex-direction: column;
+ }
+ .cost b {
+    font-size: 16px;
+ }
+.one {
+ display: flex;
+ flex-direction: column;
+ margin-left: 20%;
+}
+
+ .items {
+    margin-top: 80px;
+    justify-content: space-around;
+ }
+.new {
+    background-image: 
+    linear-gradient(to top, rgba(255, 255, 255, 0.3), rgba(245, 245, 245, 0.3)),
+    url(/photos/Rectangle\ 8.png);
+    color: #ffff;
+    width: 60%;
+    text-align: center;
+    padding-bottom: 70px;
+
+}  
+.new button {
+    text-transform: uppercase;
+    background: transparent;
+    border: 1px solid #ffff;
+    color: #ffff;
+    padding: 10px;
+    margin-top: 20px;
+}    
+.new b {
+margin-top: 200px;
+font-size: 36px;
+text-transform: uppercase ;
+border-bottom: 1px #ffff solid;
+padding-bottom: 10px;
+}
+.new div { 
+    margin-top: 280px
+}
+.collect {
+    display: flex;
+}
+.collection {
+    background-color: #000000;
+    color: #ffff;
+    text-align: center;
+}
+.costume {
+    width: 60%;
+    height: 600px;
+}
+.collection button {
+background-color: transparent;
+border: 1px solid #ffff;
+color: #ffff ;
+padding: 20px;
+font-size: 20px;
+margin-top: 20px;
+}
+.collect_text {
+    width: 62%;
+    text-align: center;
+    margin-left: 17%;
+    margin-top: 40px;
+}
+.all {
+    margin-top: 100px;
+}
+.collection b {
+    font-size: 28px;
+    border-bottom: 1px solid #ffff;
+    padding-bottom: 20px;
+}
+.arrival {
+    background-color: #000000;
+color: #ffff;
+display: flex;
+flex-direction: column;
+text-align: center;
+
+}
+.thefirst_arrivals {
+    display: flex;
+}
+.thesecond_arrivals {
+    display: flex;
+}
+.photos {
+    display: flex;
+    justify-content: center;
+}
+.arrivals {
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.one1 {
+    display: flex;
+    flex-direction: column;
+    margin-top: 15px;
+}
+.new_arrivals {
+    font-size: 32px;
+    
+margin-top: 50px;
+}
+.new_arrivals b {
+    border-bottom: 1px solid #ffff;
+    padding-bottom: 40px;
+}
+
+.arrival b {
+    margin-top: 20px;
+    
+}
+.our_brands {
+    background-color: #191B1C;
+    margin-top: 200px;
+    padding-bottom: 100px;
+}
+.brands {
+    display: flex;
+    margin-top: 20px;
+    justify-content: center;
+}
+.name_brands {
+    margin-top: 50px;
+}
+.name_brands b {
+    font-size: 32px;
+    border-bottom: 1px solid #ffff;
+    padding-bottom: 20px;
+}
+footer {
+    background-image: url(/photos/Rectangle\ 15.png);
+    color: aliceblue;
+}
+.title {
+    display: flex;
+    justify-content: space-evenly;
+}
+.title span {
+    margin-top: 30px;
+    margin-bottom: 30px;
+    font-size: 26px;
+}
+.info {
+    display: flex;
+   justify-content: space-between;
+}
+.about {
+    width: 30%;
+    padding-left: 13%;
+}
+.about span {
+line-height: 26px;
+}
+.categories {
+    margin-left: 5%;
+}
+.categories button {
+    background-color: #000000;
+    color: #ffff;
+    border: none;
+    padding: 15px;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.text_email {
+    width: 70%;
+    line-height: 26px;
+}
+.email button {
+    color: #ffff;
+    background-color: #000000;
+    border: none;
+    padding: 15px;
+    font-size: 17px;
+}
+.email input {
+    padding: 15px;
+    margin-top: 15px;
+    background-color: #969696;
+    
+}
+.menu-btn {
+        
+    display: block;
+    position: absolute;
+    z-index:0;
+    margin-top: 50px;
+margin-left: 50px;
+}
+ 
+ .btn {
+     margin-bottom:3px;
+     width: 30px;
+     height: 2px;
+     background: #f1f1f1;
+     transition: all 0.5s;
+     opacity: 1;
+ }
+ 
+ .menu.active {
+     transform: translateX(0);
+ }
+ 
+
+ li a {
+     color: #fff;
+     opacity: 1;
+     text-transform: uppercase;
+ }
+ html {
+     scroll-behavior: smooth;
+ }
+ .sidenav .closebtn {
+     position: absolute;
+     top: 0;
+     right: 25px;
+     font-size: 36px;
+     margin-left: 50px;
+ }
+ .sidenav {
+     height: 100%;
+     width: 0;
+     position: fixed;
+     z-index: 5;
+     top: 0;
+     right: 0;
+     background-color: #111;
+     overflow-x: hidden;
+     transition: 0.5s;
+     padding-top: 60px;
+ }
+ 
+ .sidenav a {
+     padding: 59px 8px 8px 32px;
+     text-decoration: none;
+    
+     font-size: 20px;
+     color: #818181;
+     display: block;
+     transition: 0.3s;
+     text-transform: uppercase;
+     text-align: center;
+ }
+ 
+ .sidenav a:hover {
+     color: #f1f1f1;
+ }
+ .all_menu {
+    position: absolute;
+    opacity: 0;
+    left: 80%;
+bottom: 1511px;
+ }
+@media(min-width:1976px) {
+  header button {
+    font-size: 25px;
+  }
+  .new {
+    width: 30%;
+  }
+  *{
+    font-size: large;
+  }
+  span {
+    font-size: larger;
+  }
+}
+@media(max-width:1177px) {
+    .thefirst_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .thesecond_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .costume {
+        width: 40%;
+        height: 600px;
+    }
+    .about {
+        width: 30%;
+        padding-left: 13%;
+    }
+    .about span {
+        line-height: 0px;
+        font-size: small;
+        width: 50%;
+        }
+    
+}
+@media(max-width:1024px) {
+    .thefirst_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .thesecond_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .costume {
+        display: none;
+    }
+    .about {
+        width: 30%;
+        padding-left: 13%;
+    }
+    .about span {
+        line-height: 0px;
+        font-size: small;
+        width: 50%;
+        }
+        .collection {
+            background-color: #000000;
+            color: #ffff;
+            text-align: center;
+            padding-bottom: 150px;
+            
+        }
+        .all {
+            margin-left: 50px;
+        }
+        .brands {
+            flex-direction: column;
+        }
+    
+}
+@media(max-width:700px) {
+    .thefirst_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .thesecond_arrivals {
+        display: flex;
+        flex-direction: column;
+    }
+    .costume {
+        display: none;
+    }
+    .about {
+        width: 30%;
+        padding-left: 13%;
+    }
+    .about span {
+        line-height: 0px;
+        font-size: small;
+        width: 50%;
+        }
+        .collection {
+            background-color: #000000;
+            color: #ffff;
+            text-align: center;
+            padding-bottom: 150px;
+            
+        }
+        .all {
+            margin-left: 50px;
+        }
+        .brands {
+            flex-direction: column;
+        }
+        .season {
+            display: flex;
+            flex-direction: column;
+         }
+         .watch {
+            width: 100%;
+         }
+         .new {
+            width: 100% ;
+         }
+         .about {
+            display: none;
+         }
+         .magaz {
+            display: none;
+         }
+         .email {
+            text-align: center;
+         }
+         .text_email {
+            margin-left: 50px;
+         }
+        .after-top i {
+            display: none;
+         }
+         .after-top button {
+            display: none;
+         }
+         .thefirst span {
+            display: none;
+         }
+         .logo {
+            margin-left: 5%;
+         }
+         .top {
+            display: none;
+         }
+         .log {
+            margin-left: 5%;
+            margin-bottom: 10px;
+            display: block;
+         }
+         .after-top {
+            display: block;
+         }
+         .all_menu {
+            position: absolute;
+            opacity: 1;
+         }
+
+        }
+
+
